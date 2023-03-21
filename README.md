@@ -1,0 +1,1 @@
+From the tutorial [Value Objects Practical Example - What is a Value Object? - Full PHP 8 Tutorial](https://www.youtube.com/watch?v=agIL1EUozhQ)
